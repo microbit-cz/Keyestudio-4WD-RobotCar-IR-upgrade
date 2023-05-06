@@ -24,15 +24,10 @@ Adding Micro-USB charger
 
 ---
 
-## draft for the 2 front sensors:
+## Cable interconnection draft:
 
-![draft for the 2 front sensors](/assets/img/front_draft.png)
-
-## front piece fits perfectly:
-
-![front piece from top](/assets/img/front_top.jpg)
-![front piece from side](/assets/img/front_side.jpg)
+![Cable interconnection draft](/assets/img/cable_draft.png)
 
 
-[4_channel_IR]: <https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino"
-[charger]: <https://www.aliexpress.com/item/1005001999879185.html "3.7V Lithium Battery Charger 5V 1A 2A Li-ion Lipo Battery Charging Protect Two-in-one Module Micro USB Type-C Protection Board"
+[4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino"
+[charger]: https://www.aliexpress.com/item/1005001999879185.html "3.7V Lithium Battery Charger 5V 1A 2A Li-ion Lipo Battery Charging Protect Two-in-one Module Micro USB Type-C Protection Board"
