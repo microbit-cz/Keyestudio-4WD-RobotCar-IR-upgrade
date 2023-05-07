@@ -10,6 +10,8 @@
 
 [<< back](/README.md)
 
+---
+
 # Tutorial - 4 way IR sensor addition
 
 <table>
@@ -190,3 +192,5 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 </table>
 
 ---
+
+[<< back](/README.md)
