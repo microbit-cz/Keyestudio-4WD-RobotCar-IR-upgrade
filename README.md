@@ -18,9 +18,10 @@ Adding Micro-USB charger
 
 ### TO-DO 
 
- - [x] Box for [Charger][charger]
- - [ ] Tutorial how to set up .MD
+ - [ ] Box for [Charger][charger]
+ - [x] Tutorial .MD
  - [x] Cables
+ - [ ] basic test code
 
 ---
 
