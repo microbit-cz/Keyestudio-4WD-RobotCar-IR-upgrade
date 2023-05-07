@@ -1,36 +1,47 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
 
+[IR]: </assets/markdown/ir_setup.md>
+[models]: </assets/markdown/models_download.md>
+[crimping]: </assets/markdown/crimping_cables.md>
+[nuts]: </assets/markdown/nut_insertion.md>
+[charge]:</assets/markdown/charging_setup.md>
 
 # Wall Detection and Integrated Charging addition for KS4031
 
-Adding 4 IR sensors to the car
-- 2 to front
-- 1 to each side
+The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment.
 
-Adding Micro-USB charger
+The **[integrated charging][charge]** through Micro-USB can save time and improve convenience by allowing users to quickly and easily recharge the car without the need for additional equipment or cables. 
 
-
-### Parts used so far:
-
--  [4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module][4_channel_IR]
-- 6x screw type: ???
-- 6x insert nut type: ???
-
-### TO-DO 
-
- - [ ] Box for [Charger][charger]
- - [x] Tutorial .MD
- - [x] Cables
- - [ ] basic test code
+## Documentation
+- **[Download Models][models]**
+- [How to set-up wall detection][IR]
+- [How to set-up integrated charging][charge]
+- [Nut insertion][nuts]
+- [Cable crimping][crimping]
 
 ---
 
-## Cable interconnection:
-draft|result
-:-------------------------:|:-------------------------:
-![Cable interconnection draft](/assets/img/cable_interconnection.png)  |  ![Cable interconnection done](/assets/img/cable_done.jpg)
+## Functionality test
 
-[4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino" 
-[charger]: https://www.aliexpress.com/item/1005001999879185.html "3.7V Lithium Battery Charger 5V 1A 2A Li-ion Lipo Battery Charging Protect Two-in-one Module Micro USB Type-C Protection Board"
+```js
+let front_P = pins.digitalReadPin(DigitalPin.P0);
+let front_L = pins.digitalReadPin(DigitalPin.P7);
+let left = pins.digitalReadPin(DigitalPin.P12);
+let right = pins.digitalReadPin(DigitalPin.P13);
 
-[tutorial](/assets/markdown/ir_setup.md)
+console.log("front_P: " + front_P);
+console.log("front_L: " + front_L);
+console.log("left: " + left);
+console.log("right: " + right);
+```
+The given code snippet assigns the digital readings from the IR sensors to respective variables: front_P, front_L, left, and right. The console.log statements display the values of each sensor to the Console.
+
+
+--- 
+
+### TO-DO 
+ - [ ] welcome photo
+ - [ ] Reference photo for IR
+ - [ ] Reference photo for charger
+ - [ ] Box for [Charger][charger]
+ - [ ] Tutorial .MD for charger
