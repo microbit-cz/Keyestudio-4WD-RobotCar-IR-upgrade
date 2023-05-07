@@ -6,8 +6,9 @@
 
 [insert_nut]: </assets/markdown/nut_insertion.md>
 [cables]: </assets/markdown/crimping_cables.md>
-[models]: </assets/markdown/models_donwload.md>
+[models]: </assets/markdown/models_download.md>
 
+[<< back](/README.md)
 
 # Tutorial - 4 way IR sensor addition
 
