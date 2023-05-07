@@ -6,6 +6,7 @@
 
 [insert_nut]: </assets/markdown/nut_insertion.md>
 [cables]: </assets/markdown/crimping_cables.md>
+[models]: </assets/markdown/models_donwload.md>
 
 
 # Tutorial - 4 way IR sensor addition
@@ -21,11 +22,11 @@
     <tr>
       <td>
         <ul>
-         <li>1x <strong>4 Channel Infrared Sensor Module</strong></li>
-         <li>8x <strong>Lego Pin</strong> type 32002</li>
-         <li>6x <strong>Insert nut</strong> type M3x4x4.2</li>
-         <li>6x <strong>Screw</strong> type M3x4mm</li>
-         <li><strong><a href="/assets/models">Models</a></strong>
+         <li>1x <strong><a href="https://www.aliexpress.com/item/32910726663.html">4 Channel Infrared Sensor Module</a></strong></li>
+         <li>8x <strong>Lego Pin</strong> type <a href="https://www.aliexpress.com/item/1005004975645306.html">32002</a></li>
+         <li>6x <strong>Insert nut</strong> type <a href="https://www.aliexpress.com/item/1005004629314742.html">M3x4x4.2</a></li>
+         <li>6x <strong>Screw</strong> type <a href="https://www.aliexpress.com/item/1005005098799689.html">M3x4mm</a></li>
+         <li><strong><a href="/assets/markdown/models_download.md">Models</a></strong>
             <ul>
                 <li>1x Front holder</li>
                 <li>2x side holder - top piece</li>
@@ -51,9 +52,9 @@
 
 ---
 
-## Embedding Models
+# Embedding Models
 
-Before Embeding models onto the car create the needed [cables][cables] and insert all needed [insertion nuts][insert_nut].
+Before Embeding [models][models] onto the car create the needed [cables][cables] and insert all needed [insertion nuts][insert_nut].
 
 When embedding the models onto the car, it is important to make sure that everything is secured properly and all cables are connected correctly. Start with the back lid. Connect the cables to the appropriate pins on the module.
 
@@ -61,9 +62,9 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 
 ---
 
-### Back Lid
+## Back Lid
 
-Parts:
+**Parts:**
 - 1x Back Lid
 - 2x insertion nuts
 - 2x screws
@@ -82,7 +83,7 @@ Parts:
     <td valign="top"><img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 3: Connect the cables 
+    <td valign="top">Step 3: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a> 
     <ul>
         <li>3pin dupont cable (5cm) to ports:
             <ul>
@@ -111,9 +112,9 @@ Parts:
 
 ---
 
-### Front Piece
+## Front Piece
 
-Parts:
+**Parts:**
 - 1x Front holder
 - 4x LEGO Pin type 32002
 - 2x insertion nuts
@@ -139,7 +140,7 @@ Parts:
     <td valign="top"><img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 5: Connect the cables</td>
+    <td valign="top">Step 5: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a></td>
     <td valign="top"><img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="220"></td>
   </tr>
@@ -151,9 +152,9 @@ Parts:
 
 --- 
 
-### Side Piece
+## Side Piece
 
-Parts:
+**Parts:**
 - 2x side holder - top piece
 - 2x side holder - bottom piece
 - 4x LEGO Pin type 32002
@@ -180,7 +181,7 @@ Parts:
     <td valign="top"><img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 5: Connect the cables</td>
+    <td valign="top">Step 5: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a></td>
     <td valign="top"><img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220"></td>
