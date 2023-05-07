@@ -40,7 +40,7 @@
          </li>
         </ul>
       </td>
-      <td><img src="/assets/img/cable_done.jpg" alt="Reference Photo"></td>
+      <td><img src="/assets/img/tutorial/IR_parts.jpg" alt="Reference Photo" width="400"></td>
     </tr>
   </tbody>
 </table>
@@ -63,33 +63,21 @@ Parts:
 - 1x 1pin dupont 8cm
 - 1x [4 Channel Infrared Sensor Module][4_channel_IR]
 
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a>
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/back/step_1.jpg" alt="step1"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 2: Screw the IR module in
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 3: Connect the cables 
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/back/step_3.jpg" alt="step3"  height="220" style="object-fit:cover;width:100%">
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/back/step_3.png" alt="step2"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-</div>
+<table>
+  <tr>
+    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_1.jpg" alt="step1"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 2: Screw the IR module in</td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 3: Connect the cables</td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_3.jpg" alt="step3"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_3.png" alt="step3"  height="220"></td>
+  </tr>
+</table>
 
 ---
 
@@ -103,58 +91,35 @@ Parts:
 - 2x 3pin dupont 20cm
 - 2x IR sensors from [4 Channel Infrared Sensor Module][4_channel_IR]
 
+<table>
+  <tr>
+    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_1.jpg" alt="step1"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 2: Insert 1 LEGO pin into each corner of the front LEGO plate</td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_2.jpg" alt="step2"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 3: Place the model on the lego pins</td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_3.jpg" alt="step3"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 4: Screw the IR sensors into the insertion nuts</td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 5: Connect the cables</td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 6: Place the ultrasonic sensor on top</td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_6.jpg" alt="step6"  height="220"></td>
+  </tr>
 
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a>
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_1.jpg" alt="step1"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 2: Insert 1 LEGO pin into each corner of the front LEGO plate
-    </div>
-        <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_2.jpg" alt="step2"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 3: Place the model on the lego pins
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_3.jpg" alt="step3"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 4: Screw the IR sensors into the insertion nuts
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 5: Connect the cables 
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="220" style="object-fit:cover;width:100%">
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 6: Place the ultrasonic sensor on top
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/front/step_6.jpg" alt="step6"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
+</table>
+
 
 --- 
 
@@ -171,52 +136,32 @@ Parts:
 - 2x IR sensors from [4 Channel Infrared Sensor Module][4_channel_IR]
 
 
+<table>
+  <tr>
+    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the models</a></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_1.jpg" alt="step1"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 2: Insert LEGO pins on the top of the LEGO plate</td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_2.jpg" alt="step2"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 3: Place the bottom piece on the lego pieces</td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_3.jpg" alt="step3"  height="220"></td>
+  </tr>
+  <tr>
+    <td valign="top">Step 4: Place the top piece on the lego pins</td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="220"></td>
+  </tr>
 
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the models</a>
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_1.jpg" alt="step1"  height="220" style="object-fit:cover;width:100%">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 2: Insert LEGO pins on the top of the LEGO plate
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_2.jpg" alt="step2"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 3: Place the bottom piece on the lego pieces
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_3.jpg" alt="step3"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 4: Place the top piece on the lego pins
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-</div>
-<div style="width:100%;display:flex;align-items:center;gap:.2em;">
-    <div style="width:60%;">
-        Step 5: Connect the cables
-    </div>
-    <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-        <div style="width:40%;">
-        <img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-        <div style="width:50%;">
-        <img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220" style="object-fit:cover;width:100%;">
-    </div>
-</div>
+  <tr>
+    <td valign="top">Step 5: Connect the cables</td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220"></td>
+  </tr>
+
+
+</table>
 
 ---
