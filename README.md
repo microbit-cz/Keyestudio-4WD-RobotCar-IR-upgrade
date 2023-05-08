@@ -6,9 +6,11 @@
 [nuts]: </assets/markdown/nut_insertion.md>
 [charge]:</assets/markdown/charging_setup.md>
 
-# Wall Detection and Integrated Charging addition for KS4031
+# Wall Detection and Integrated Charging addition for KS4031 Keyestudio 4WD Mecanum Robot Car
 
-The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment.
+![Welcome!](./assets/img/welcome.jpg)
+
+The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles in 180° radius such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment like Maze.
 
 The **[integrated charging][charge]** through Micro-USB can save time and improve convenience by allowing users to quickly and easily recharge the car without the need for additional equipment or cables. 
 
@@ -40,8 +42,8 @@ The given code snippet assigns the digital readings from the IR sensors to respe
 --- 
 
 ### TO-DO 
- - [ ] welcome photo
+ - [x] welcome photo
  - [ ] Reference photo for IR
  - [ ] Reference photo for charger
- - [ ] Box for [Charger][charger]
+ - [ ] Box for [Charger][charge]
  - [ ] Tutorial .MD for charger
