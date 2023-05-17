@@ -10,7 +10,7 @@
 
 ![Welcome!](./assets/img/welcome.jpg)
 
-The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles in 180° radius such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment like Maze.
+The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles in 180° radius such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment such as Maze.
 
 The **[integrated charging][charge]** through Micro-USB can save time and improve convenience by allowing users to quickly and easily recharge the car without the need for additional equipment or cables. 
 
