@@ -48,7 +48,7 @@
          </li>
         </ul>
       </td>
-      <td><img src="/assets/img/cable_done.jpg" alt="Reference Photo" width="400"></td>
+      <td><img src="/assets/img/IR_reference.jpg" alt="Reference Photo" width="400"></td>
     </tr>
   </tbody>
 </table>
