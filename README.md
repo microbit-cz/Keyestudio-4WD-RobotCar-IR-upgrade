@@ -4,7 +4,7 @@
 [nuts_MD]: /assets/languages/master/nut_insertion.md
 [charge_MD]: /assets/languages/master/charging_setup.md
 [czechLanguage_MD]: /assets/languages/czech/README.cs.md
-[englishLanguage_MD]: /assets/
+[englishLanguage_MD]: README.md
 [productFoto]: /assets/img/welcome.jpg
 
 # Wall Detection and Integrated Charging addition for KS4031 Keyestudio 4WD Mecanum Robot Car

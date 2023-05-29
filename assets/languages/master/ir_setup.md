@@ -1,15 +1,12 @@
-[dupont_3pin_20cm]: https://www.aliexpress.com/item/32853020233.html "10PCS 3PIN DUPONT LINE female to female PITCH 2.54MM 20CM double head 3P 3 pin JUMPER CABLE WIRE FOR PCB connector"
 [4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino"
-[insert]: https://www.aliexpress.com/item/1005004629314742.html "250pcs M3 Insert Brass Nut Hot Melt Knurled Thread Heat Embedment Copper Nuts Embed Pressed Fit for 3d printer Plastic Case"
-[screw]: https://www.aliexpress.com/item/1005005098799689.html "M1.6 M2 M2.5 M3 M3.5 M4 M5 M6 M8 GB818-85 A2-70 304 Stainless steel Cross Phillips Round Pan Head Screw Bolt"
-[lego_piece]: https://www.aliexpress.com/item/1005004975645306.html "Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy"
+[insert]: https://www.aliexpress.com/item/1005003582355741.html "M2 M2.5 M3 M4 M5 M6 Brass Hot Melt Insert Knurled Nut Thread Heat Molding Double Twill Injection Embedment Nut For 3D Printer"
+[screws]: https://www.aliexpress.com/item/1005005098799689.html "Screw Set KM2 2.5 KM3Machine Laptop Screws Flat Head Phillips Drive Accessories for Repair Computer Electronic Laptop Screws Kit"
+[lego_pieces]: https://www.aliexpress.com/item/1005004975645306.html "Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy"
+[wire]: https://www.aliexpress.com/item/1005002906304265.html "Led Wire Cable 22AWG 2Pin/3Pin/4Pin/5Pin/6pin For WS2812B WS2811 5050 2835 5730 Led Strip Light 5m/10m/20m/50m/100m"
+[dupont]: https://www.aliexpress.com/item/1005002646300836.html "620pcs Dupont Connector 2.54mm, Dupont Cable Jumper Wire Pin Header Housing Kit, Male Crimp Pins+Female Pin Terminal Connector"
 [insert_nut]: nut_insertion.md
 [cables]: crimping_cables.md
 [models]: models_download.md
-
-[<< back](/README.md)
-
----
 
 # Tutorial - 4 way IR sensor addition
 
@@ -51,6 +48,15 @@
     </tr>
   </tbody>
 </table>
+
+all parts were bought on Aliexpress on 29.5.2023 and cost **14.61$** without shipping:
+
+- [Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino][4_channel_IR] - **0.97$**
+- [Screw Set KM2 2.5 KM3Machine Laptop Screws Flat Head Phillips Drive Accessories for Repair Computer Electronic Laptop Screws Kit][screws] - choice: _250PCS SET_ - **1.03$**
+- [Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy][lego_pieces] - choice: _50pcs_ - **2.52$**
+- [M2 M2.5 M3 M4 M5 M6 Brass Hot Melt Insert Knurled Nut Thread Heat Molding Double Twill Injection Embedment Nut For 3D Printer][insert_nut] - choice: _M3(OD4.2mm)_ , _Length 3mm 50pcs_ - **0.85$**
+- [Led Wire Cable 22AWG 2Pin/3Pin/4Pin/5Pin/6pin For WS2812B WS2811 5050 2835 5730 Led Strip Light 5m/10m/20m/50m/100m][wire] - choice: _10m_ - **5.80$**
+- [620pcs Dupont Connector 2.54mm, Dupont Cable Jumper Wire Pin Header Housing Kit, Male Crimp Pins+Female Pin Terminal Connector][dupont] - **3.44$**
 
 ---
 
@@ -192,7 +198,3 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
     <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220"></td>
   </tr>
 </table>
-
----
-
-[<< back](/README.md)
