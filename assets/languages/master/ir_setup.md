@@ -1,12 +1,11 @@
 [dupont_3pin_20cm]: https://www.aliexpress.com/item/32853020233.html "10PCS 3PIN DUPONT LINE female to female PITCH 2.54MM 20CM double head 3P 3 pin JUMPER CABLE WIRE FOR PCB connector"
-[4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino" 
+[4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino"
 [insert]: https://www.aliexpress.com/item/1005004629314742.html "250pcs M3 Insert Brass Nut Hot Melt Knurled Thread Heat Embedment Copper Nuts Embed Pressed Fit for 3d printer Plastic Case"
 [screw]: https://www.aliexpress.com/item/1005005098799689.html "M1.6 M2 M2.5 M3 M3.5 M4 M5 M6 M8 GB818-85 A2-70 304 Stainless steel Cross Phillips Round Pan Head Screw Bolt"
 [lego_piece]: https://www.aliexpress.com/item/1005004975645306.html "Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy"
-
-[insert_nut]: </assets/markdown/nut_insertion.md>
-[cables]: </assets/markdown/crimping_cables.md>
-[models]: </assets/markdown/models_download.md>
+[insert_nut]: nut_insertion.md
+[cables]: crimping_cables.md
+[models]: models_download.md
 
 [<< back](/README.md)
 
@@ -29,7 +28,7 @@
          <li>8x <strong>Lego Pin</strong> type <a href="https://www.aliexpress.com/item/1005004975645306.html">32002</a></li>
          <li>6x <strong>Insert nut</strong> type <a href="https://www.aliexpress.com/item/1005004629314742.html">M3x4x4.2</a></li>
          <li>6x <strong>Screw</strong> type <a href="https://www.aliexpress.com/item/1005005098799689.html">M3x4mm</a></li>
-         <li><strong><a href="/assets/markdown/models_download.md">Models</a></strong>
+         <li><strong><a href="models_download.md">Models</a></strong>
             <ul>
                 <li>1x Front holder</li>
                 <li>2x side holder - top piece</li>
@@ -37,7 +36,7 @@
                 <li>1x back lid</li>
             </ul>
          </li>
-         <li><strong><a href="/assets/markdown/crimping_cables.md">Cables</a></strong>
+         <li><strong><a href="crimping_cables.md">Cables</a></strong>
             <ul>
                 <li>2x 3pin dupont 20cm</li>
                 <li>2x 3pin dupont 15cm</li>
@@ -68,6 +67,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 ## Back Lid
 
 **Parts:**
+
 - 1x Back Lid
 - 2x insertion nuts
 - 2x screws
@@ -78,7 +78,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 
 <table>
   <tr>
-    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
+    <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
     <td valign="top"><img src="/assets/img/tutorial/back/step_1.jpg" alt="step1"  height="220"></td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
     <td valign="top"><img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 3: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a> 
+    <td valign="top">Step 3: Connect the <a href="crimping_cables.md">Cables</a> 
     <ul>
         <li>3pin dupont cable (5cm) to ports:
             <ul>
@@ -118,6 +118,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 ## Front Piece
 
 **Parts:**
+
 - 1x Front holder
 - 4x LEGO Pin type 32002
 - 2x insertion nuts
@@ -127,7 +128,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 
 <table>
   <tr>
-    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
+    <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
     <td valign="top"><img src="/assets/img/tutorial/front/step_1.jpg" alt="step1"  height="220"></td>
   </tr>
   <tr>
@@ -143,7 +144,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
     <td valign="top"><img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 5: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a></td>
+    <td valign="top">Step 5: Connect the <a href="crimping_cables.md">Cables</a></td>
     <td valign="top"><img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="220"></td>
   </tr>
@@ -153,11 +154,12 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
   </tr>
 </table>
 
---- 
+---
 
 ## Side Piece
 
 **Parts:**
+
 - 2x side holder - top piece
 - 2x side holder - bottom piece
 - 4x LEGO Pin type 32002
@@ -168,7 +170,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 
 <table>
   <tr>
-    <td valign="top">Step 1: <a href="/assets/markdown/nut_insertion.md">Insert the 2 insertion nuts into the models</a></td>
+    <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the models</a></td>
     <td valign="top"><img src="/assets/img/tutorial/side/step_1.jpg" alt="step1"  height="220"></td>
   </tr>
   <tr>
@@ -184,7 +186,7 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
     <td valign="top"><img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="220"></td>
   </tr>
   <tr>
-    <td valign="top">Step 5: Connect the <a href="/assets/markdown/crimping_cables.md">Cables</a></td>
+    <td valign="top">Step 5: Connect the <a href="crimping_cables.md">Cables</a></td>
     <td valign="top"><img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="220"></td>
     <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220"></td>

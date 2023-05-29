@@ -1,25 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V-0A61vX)
-
-[IR]: </assets/markdown/ir_setup.md>
-[models]: </assets/markdown/models_download.md>
-[crimping]: </assets/markdown/crimping_cables.md>
-[nuts]: </assets/markdown/nut_insertion.md>
-[charge]:</assets/markdown/charging_setup.md>
+[IR_MD]: /assets/languages/master/ir_setup.md
+[models_MD]: /assets/languages/master/models_download.md
+[crimping_MD]: /assets/languages/master/crimping_cables.md
+[nuts_MD]: /assets/languages/master/nut_insertion.md
+[charge_MD]: /assets/languages/master/charging_setup.md
+[czechLanguage_MD]: /assets/languages/czech/README.cs.md
+[englishLanguage_MD]: /assets/
+[productFoto]: /assets/img/welcome.jpg
 
 # Wall Detection and Integrated Charging addition for KS4031 Keyestudio 4WD Mecanum Robot Car
 
-![Welcome!](./assets/img/welcome.jpg)
+<kbd>[<img title="Czech" alt="Czech" src="/assets/img/icons/czech.svg" width="22">][czechLanguage_MD]</kbd> <kbd>[<img title="English" alt="English" src="/assets/img/icons/english.svg" width="22">][englishLanguage_MD]</kbd>
 
-The **[wall detection][IR]** feature uses sensors to detect the presence of obstacles in 180° radius such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment such as Maze.
+![Welcome!][productFoto]
 
-The **[integrated charging][charge]** through Micro-USB can save time and improve convenience by allowing users to quickly and easily recharge the car without the need for additional equipment or cables. 
+The **[wall detection][IR_MD]** feature uses sensors to detect the presence of obstacles in 180° radius such as walls and other objects in the car's path, allowing the car to automatically stop or change its direction to avoid collisions. This feature can be particularly useful in situations where the car is operating in a confined space or navigating through a complex environment such as Maze.
+
+The **[integrated charging][charge_MD]** through Micro-USB can save time and improve convenience by allowing users to quickly and easily recharge the car without the need for additional equipment or cables.
 
 ## Documentation
-- **[Download Models][models]**
-- [How to set-up wall detection][IR]
-- [How to set-up integrated charging][charge]
-- [Nut insertion][nuts]
-- [Cable crimping][crimping]
+
+- **[Download Models][models_MD]**
+- [How to set-up wall detection][IR_MD]
+- [How to set-up integrated charging][charge_MD]
+- [Nut insertion][nuts_MD]
+- [Cable crimping][crimping_MD]
 
 ---
 
@@ -36,14 +40,15 @@ console.log("front_L: " + front_L);
 console.log("left: " + left);
 console.log("right: " + right);
 ```
+
 The given code snippet assigns the digital readings from the IR sensors to respective variables: front_P, front_L, left, and right. The console.log statements display the values of each sensor to the Console.
 
+---
 
---- 
+### TO-DO
 
-### TO-DO 
- - [x] welcome photo
- - [x] Reference photo for IR
- - [ ] Reference photo for charger
- - [ ] Box for [Charger][charge]
- - [ ] Tutorial .MD for charger
+- [x] welcome photo
+- [x] Reference photo for IR
+- [ ] Reference photo for charger
+- [ ] Box for [Charger][charge]
+- [ ] Tutorial .MD for charger
