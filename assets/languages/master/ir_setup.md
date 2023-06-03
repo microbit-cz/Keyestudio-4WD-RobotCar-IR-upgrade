@@ -1,9 +1,10 @@
-[4_channel_IR]: https://www.aliexpress.com/item/32910726663.html "Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino"
+[4_channel_IR]: https://www.aliexpress.com/item/1638741453.html "Four Way 4 Channel Infrared Detector Tracing Transmission Line Obstacle Avoidance Sensor Module Diy Car Robot"
 [insert]: https://www.aliexpress.com/item/1005003582355741.html "M2 M2.5 M3 M4 M5 M6 Brass Hot Melt Insert Knurled Nut Thread Heat Molding Double Twill Injection Embedment Nut For 3D Printer"
-[screws]: https://www.aliexpress.com/item/1005005098799689.html "Screw Set KM2 2.5 KM3Machine Laptop Screws Flat Head Phillips Drive Accessories for Repair Computer Electronic Laptop Screws Kit"
+[screws]: https://www.aliexpress.com/item/4000025462486.html "25pcs Computer PC Case 2.5 3.5 inch Hard Drive Disk HDD Caddy Hot Swap Server Tray Mount Screw Phillips Countersunk Head Bolt"
 [lego_pieces]: https://www.aliexpress.com/item/1005004975645306.html "Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy"
-[wire]: https://www.aliexpress.com/item/1005002906304265.html "Led Wire Cable 22AWG 2Pin/3Pin/4Pin/5Pin/6pin For WS2812B WS2811 5050 2835 5730 Led Strip Light 5m/10m/20m/50m/100m"
-[dupont]: https://www.aliexpress.com/item/1005002646300836.html "620pcs Dupont Connector 2.54mm, Dupont Cable Jumper Wire Pin Header Housing Kit, Male Crimp Pins+Female Pin Terminal Connector"
+[housing]: https://www.aliexpress.com/item/32816638128.html "100PCS Dupont Head 2.54mm 1X 1P 2P 3P 4P 1X1P 1X2P Dupont Plastic Shell Pin Head Connector Jumper Wire Cable Housing Plug Female"
+[female]: https://www.aliexpress.com/item/32816638128.html "100PCS Dupont Head 2.54mm 1X 1P 2P 3P 4P 1X1P 1X2P Dupont Plastic Shell Pin Head Connector Jumper Wire Cable Housing Plug Female"
+[wire]: https://www.aliexpress.com/item/4000615921627.html "100PCS Dupont Head 2.54mm 1X 1P 2P 3P 4P 1X1P 1X2P Dupont Plastic Shell Pin Head Connector Jumper Wire Cable Housing Plug Female"
 [insert_nut]: nut_insertion.md
 [cables]: crimping_cables.md
 [models]: models_download.md
@@ -49,14 +50,20 @@
   </tbody>
 </table>
 
-all parts were bought on Aliexpress on 29.5.2023 and cost **14.61$** without shipping:
+All parts were bought on Aliexpress and on 2.6.2023 it cost **9.78$** without shipping:
 
-- [Four Way 4 Channel Infrared Detector Tracking Line Obstacle Avoidance Sensor Module Diy Smart Car Robot Module Board For Arduino][4_channel_IR] - **0.97$**
-- [Screw Set KM2 2.5 KM3Machine Laptop Screws Flat Head Phillips Drive Accessories for Repair Computer Electronic Laptop Screws Kit][screws] - choice: _250PCS SET_ - **1.03$**
-- [Bolt Pin with Friction Peg Cross Axle Building Block Bricks Connector Technical 32002 MOC Parts Assemble Particles Toy][lego_pieces] - choice: _50pcs_ - **2.52$**
-- [M2 M2.5 M3 M4 M5 M6 Brass Hot Melt Insert Knurled Nut Thread Heat Molding Double Twill Injection Embedment Nut For 3D Printer][insert_nut] - choice: _M3(OD4.2mm)_ , _Length 3mm 50pcs_ - **0.85$**
-- [Led Wire Cable 22AWG 2Pin/3Pin/4Pin/5Pin/6pin For WS2812B WS2811 5050 2835 5730 Led Strip Light 5m/10m/20m/50m/100m][wire] - choice: _10m_ - **5.80$**
-- [620pcs Dupont Connector 2.54mm, Dupont Cable Jumper Wire Pin Header Housing Kit, Male Crimp Pins+Female Pin Terminal Connector][dupont] - **3.44$**
+| Part                                                                                        |   Price   | shipping VAT | Quantity required | Price for required Quantity |
+| ------------------------------------------------------------------------------------------- | :-------: | :----------: | :---------------: | :-------------------------: |
+| [4-way F233-01][4_channel_IR]                                                               |   1.24$   |    0.49$     |        1x         |            1.24$            |
+| [2.5 Screws Flat Head ][screws] - choice: _M3x4mm_                                          |   2.01$   |     FREE     |        6x         |           0.482$            |
+| [LEGO Technic Pin 32002][lego_pieces] - choice: _50pcs_                                     |   2.51$   |     FREE     |        8x         |           0.402$            |
+| [M3 Brass Hot Melt Insert Knurled Nut][insert] - choice: _M3(OD4.2mm)_ , _Length 3mm 50pcs_ |   0.5$    |    2.05$     |        6x         |            0.06$            |
+| [3 pin 26AWG wire][wire] - choice: _30 core 5 meters_                                       |   1.49$   |    2.05$     |      ~ 90cm       |           0.268$            |
+| [Dupont housing][housing] - choice: _1X3P_                                                  |   1.08$   |    0.27$     |        10x        |           0.108$            |
+| [Dupont Terminal][female] - choice: Dupont Terminal                                         |   0.95$   |    0.27$     |        36x        |           0.342$            |
+| **Sum:**                                                                                    | **9.78$** |  **5.13$**   |        --         |         **2.902$**          |
+
+For all the products with shipping to Czech Republic i paid **14.91$**.
 
 ---
 
@@ -85,37 +92,33 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 <table>
   <tr>
     <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
-    <td valign="top"><img src="/assets/img/tutorial/back/step_1.jpg" alt="step1"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_1.jpg" alt="step1"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 2: Screw the IR module in</td>
-    <td valign="top"><img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_2.jpg" alt="step2"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 3: Connect the <a href="crimping_cables.md">Cables</a> 
     <ul>
-        <li>3pin dupont cable (5cm) to ports:
+        <li>Connect the power and ground cables:
             <ul>
-                <li>5V - VCC</li>
-                <li>G - GND</li>
-                <li>P7 - OUT1</li>
+              <li>5V - VCC</li>
+              <li>G - GND</li>
             </ul>
         </li>
-        <li>2pin dupont cable(8cm) to ports:
-            <ul>
-                <li>P12 - OUT3</li>
-                <li>P13 - OUT4</li>
-            </ul>
-        </li>
-        <li>1pin dupont cable (8cm) to ports:
-            <ul>
-                <li>P0 - OUT2</li>
-            </ul>
+        <li>Connect the sensors
+          <ul>
+            <li>Left sensor: P0 - OUT1</li>    
+            <li>Left Front sensor: P7 - OUT2</li>
+            <li>Right Front sensor: P12 - OUT3</li>
+            <li>Right sensor: P13 - OUT4</li>
+          <ul>
         </li>
     </ul>
     </td>
-    <td valign="top"><img src="/assets/img/tutorial/back/step_3.jpg" alt="step3"  height="220"></td>
-    <td valign="top"><img src="/assets/img/tutorial/back/step_3.png" alt="step3"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_3.jpg" alt="step3"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/back/step_3.png" alt="step3"  height="250"></td>
   </tr>
 </table>
 
@@ -135,28 +138,28 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 <table>
   <tr>
     <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the model</a></td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_1.jpg" alt="step1"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_1.jpg" alt="step1"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 2: Insert 1 LEGO pin into each corner of the front LEGO plate</td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_2.jpg" alt="step2"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_2.jpg" alt="step2"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 3: Place the model on the lego pins</td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_3.jpg" alt="step3"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_3.jpg" alt="step3"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 4: Screw the IR sensors into the insertion nuts</td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_4.jpg" alt="step4"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 5: Connect the <a href="crimping_cables.md">Cables</a></td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="220"></td>
-    <td valign="top"><img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_5.jpg" alt="step5"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/cables.jpg" alt="step5"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 6: Place the ultrasonic sensor on top</td>
-    <td valign="top"><img src="/assets/img/tutorial/front/step_6.jpg" alt="step6"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/front/step_6.jpg" alt="step6"  height="250"></td>
   </tr>
 </table>
 
@@ -177,24 +180,24 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 <table>
   <tr>
     <td valign="top">Step 1: <a href="nut_insertion.md">Insert the 2 insertion nuts into the models</a></td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_1.jpg" alt="step1"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_1.jpg" alt="step1"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 2: Insert LEGO pins on the top of the LEGO plate</td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_2.jpg" alt="step2"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_2.jpg" alt="step2"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 3: Place the bottom piece on the lego pieces</td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_3.jpg" alt="step3"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_3.jpg" alt="step3"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 4: Place the top piece on the lego pins</td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_4.jpg" alt="step4"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 5: Connect the <a href="crimping_cables.md">Cables</a></td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="220"></td>
-    <td valign="top"><img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="220"></td>
-    <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="220"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_5.1.jpg" alt="step5"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/step_5.2.jpg" alt="step5"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/side/cables.jpg" alt="step5"  height="250"></td>
   </tr>
 </table>

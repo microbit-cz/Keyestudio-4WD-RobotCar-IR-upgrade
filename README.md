@@ -30,15 +30,23 @@ The **[integrated charging][charge_MD]** through Micro-USB can save time and imp
 ## Functionality test
 
 ```js
-let front_P = pins.digitalReadPin(DigitalPin.P0);
-let front_L = pins.digitalReadPin(DigitalPin.P7);
-let left = pins.digitalReadPin(DigitalPin.P12);
-let right = pins.digitalReadPin(DigitalPin.P13);
+pins.setPull(DigitalPin.P0, PinPullMode.PullNone);
+pins.setPull(DigitalPin.P7, PinPullMode.PullNone);
+pins.setPull(DigitalPin.P12, PinPullMode.PullNone);
+pins.setPull(DigitalPin.P13, PinPullMode.PullNone);
 
-console.log("front_P: " + front_P);
-console.log("front_L: " + front_L);
-console.log("left: " + left);
-console.log("right: " + right);
+while (true) {
+  let front_P = pins.digitalReadPin(DigitalPin.P12);
+  let front_L = pins.digitalReadPin(DigitalPin.P7);
+  let left = pins.digitalReadPin(DigitalPin.P0);
+  let right = pins.digitalReadPin(DigitalPin.P13);
+
+  console.log("front_P: " + front_P);
+  console.log("front_L: " + front_L);
+  console.log("left: " + left);
+  console.log("right: " + right);
+  pause(100);
+}
 ```
 
 The given code snippet assigns the digital readings from the IR sensors to respective variables: front_P, front_L, left, and right. The console.log statements display the values of each sensor to the Console.
