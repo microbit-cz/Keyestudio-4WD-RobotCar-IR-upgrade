@@ -55,8 +55,6 @@ The given code snippet assigns the digital readings from the IR sensors to respe
 
 ### TO-DO
 
-- [x] welcome photo
-- [x] Reference photo for IR
 - [ ] Reference photo for charger
-- [ ] Box for [Charger][charge]
-- [ ] Tutorial .MD for charger
+- [ ] setup photos for charger
+- [ ] czech language
