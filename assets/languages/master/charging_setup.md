@@ -17,7 +17,7 @@
     <tr>
       <td>
         <ul>
-         <li>1x <strong><a href="https://www.aliexpress.com/item/32910726663.html">4 Charger Module</a></strong></li>
+         <li>1x <strong><a href="https://www.aliexpress.com/item/32910726663.html">Charger Module</a></strong></li>
          <li>2x <strong>Lego Pin</strong> type <a href="https://www.aliexpress.com/item/1005004975645306.html">32002</a></li><br>
          <li><strong><a href="models_download.md">Models</a></strong>
             <ul>
@@ -32,7 +32,7 @@
          </li>
         </ul>
       </td>
-      <td><img src="todo" alt="Reference Photo" width="400"></td>
+      <td><img src="/assets/img/Charger_reference.jpg" alt="Reference Photo" width="400"></td>
     </tr>
   </tbody>
 </table>
@@ -72,20 +72,21 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
 
 <table>
    <tr>
-    <td valign="top">Step 1: Solder the cable onto the module</td>
-    <td valign="top"><img src="todo" alt="step1"  height="250"></td>
+    <td valign="top">Step 1: Solder the cable onto the module <br><b>
+    &emsp; black - GND <br> &emsp; Red - BAT</b></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_1.jpg" alt="step1"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 2: Insert the charger into the  model</td>
-    <td valign="top"><img src="todo" alt="step2"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_2.jpg" alt="step2"  height="250"></td>
   </tr>
     <tr>
     <td valign="top">Step 3: place the Lid in place</td>
-    <td valign="top"><img src="todo" alt="step3"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_3.jpg" alt="step3"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 4: Insert the lego pieces into the model</td>
-    <td valign="top"><img src="todo" alt="step4"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_4.jpg" alt="step4"  height="250"></td>
   </tr>
   <tr>
     <td valign="top">Step 5: Place the model on the car</td>

@@ -1,6 +1,6 @@
 # Model Downloads
 
-Here are the downloadable links for the six models in two different formats.
+Here are the downloadable links for the models in two different formats.
 
 ---
 
