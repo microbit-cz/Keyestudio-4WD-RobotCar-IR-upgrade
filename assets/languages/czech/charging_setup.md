@@ -4,7 +4,7 @@
 [cables]: crimping_cables.md
 [models]: models_download.md
 
-# Tutorial - Charger addition
+# Návod - Nabíječ
 
 <table>
   <thead>
@@ -37,16 +37,16 @@
   </tbody>
 </table>
 
-All parts were bought on Aliexpress and on 2.6.2023 it cost **84,33 Kč** without shipping:
+All parts were bought on Aliexpress and on 2.6.2023 it cost **84,33Kč** without shipping:
 
 | Díl | Cena | DPH za dopravu | Požadované množství | Cena za požadované množství |
 |------------------------------------------------------------------- | :-------: | :----------: | :---------------: | :-------------------------: |
-| [2S Type-C To 8.4V Step-Up LiPo Charger][charger] - výběr: _2S 2A_ |   22,45 Kč   |    8,59 Kč     |        1x         |            22,45 Kč            |
-| [JST XH 2.54-2 Pin Plug Male][wire] - výběr: _length 100MM 10pcs_  |   6,61 Kč   |    28,85 Kč     |        1x         |            0,66 Kč            |
-| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_             |   55,27 Kč   |     ZDARMA     |        2x         |            2,20 Kč             |
-| **Součet:**                                                            | **84,33 Kč** |   **37,43 Kč**   |        --         |          **25,32 Kč**          |
+| [2S Type-C To 8.4V Step-Up LiPo Charger][charger] - výběr: _2S 2A_ |   22,45Kč   |    8,59Kč     |        1x         |            22,45Kč            |
+| [JST XH 2.54-2 Pin Plug Male][wire] - výběr: _length 100MM 10pcs_  |   6,61Kč   |    28,85Kč     |        1x         |            0,66Kč            |
+| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_             |   55,27Kč   |     ZDARMA     |        2x         |            2,20Kč             |
+| **Součet:**                                                            | **84,33Kč** |   **37,43Kč**   |        --         |          **25,32Kč**          |
 
-Za všechny produkty s dopravou do České republiky jsem zaplatil **121,74 Kč**.
+Za všechny produkty s dopravou do České republiky jsem zaplatil **121,74Kč**.
 
 ---
 

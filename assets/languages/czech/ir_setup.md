@@ -9,7 +9,7 @@
 [cables]: crimping_cables.md
 [models]: models_download.md
 
-# Tutorial - 4 way IR sensor addition
+# Návod - 4kanálový infračervený senzorový modul
 
 <table>
   <thead>
@@ -50,18 +50,18 @@
   </tbody>
 </table>
 
-Všechny díly byly zakoupeny na Aliexpressu a 2.6.2023 stály **215,13 Kč** bez poštovného:
+Všechny díly byly zakoupeny na Aliexpressu a 2.6.2023 stály **215,13Kč** bez poštovného:
 
 | Díl | Cena | DPH za dopravu | Požadované množství | Cena za požadované množství |
 | ------------------------------------------------------------------------------------------- | :-------: | :----------: | :---------------: | :-------------------------: |
-| [4-way F233-01][4_channel_IR]                                                                       | 27,28 Kč | 10,78 Kč | 1x | 27,28 Kč |
-| [2,5 šrouby s plochou hlavou ][screws] - výběr: _M3x4mm_                                            | 44,21 Kč | ZDARMA | 6x | 10,60 Kč |
-| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_                                              | 55,21 Kč | ZDARMA | 8x | 8,84 Kč |
-| [Mosazná tavná vložka M3 s vroubkovanou maticí][insert] - výběr: _M3(OD4,2mm)_ , _Length 3mm 50pcs_ | 11,00 Kč | 45,10 Kč | 6x | 1,32 Kč |
-| [3pin drát 26AWG][wire] - výběr: _30 core 5 meters_                                            | 32,77 | 45,10 Kč | ~ 90cm | 5,90 Kč |
-| [Pouzdro Dupont][housing] - výběr: _1X3P_                                                           | 23,76 Kč | 5,94 Kč | 10x | 2,38 Kč |
-| [Dupont Terminal][female] - výběr: _Dupont Terminal_                                                | 20,90 Kč | 5,94 Kč | 36x | 7,52 Kč |
-| **Součet:**                                                                                       | **215,13 Kč** | **112,84** | -- | **63,84 Kč** |
+| [4-way F233-01][4_channel_IR]                                                                       | 27,28Kč | 10,78Kč | 1x | 27,28Kč |
+| [2,5 šrouby s plochou hlavou ][screws] - výběr: _M3x4mm_                                            | 44,21Kč | ZDARMA | 6x | 10,60Kč |
+| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_                                              | 55,21Kč | ZDARMA | 8x | 8,84Kč |
+| [Mosazná tavná vložka M3 s vroubkovanou maticí][insert] - výběr: _M3(OD4,2mm)_ , _Length 3mm 50pcs_ | 11,00Kč | 45,10Kč | 6x | 1,32Kč |
+| [3pin drát 26AWG][wire] - výběr: _30 core 5 meters_                                            | 32,77 | 45,10Kč | ~ 90cm | 5,90Kč |
+| [Pouzdro Dupont][housing] - výběr: _1X3P_                                                           | 23,76Kč | 5,94Kč | 10x | 2,38Kč |
+| [Dupont Terminal][female] - výběr: _Dupont Terminal_                                                | 20,90Kč | 5,94Kč | 36x | 7,52Kč |
+| **Součet:**                                                                                       | **215,13Kč** | **112,84** | -- | **63,84Kč** |
 
 Za všechny produkty s dopravou do České republiky jsem zaplatil **327,98Kč**.
 
