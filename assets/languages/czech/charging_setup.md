@@ -39,12 +39,12 @@
 
 All parts were bought on Aliexpress and on 2.6.2023 it cost **84,33Kč** without shipping:
 
-| Díl | Cena | DPH za dopravu | Požadované množství | Cena za požadované množství |
-|------------------------------------------------------------------- | :-------: | :----------: | :---------------: | :-------------------------: |
-| [2S Type-C To 8.4V Step-Up LiPo Charger][charger] - výběr: _2S 2A_ |   22,45Kč   |    8,59Kč     |        1x         |            22,45Kč            |
-| [JST XH 2.54-2 Pin Plug Male][wire] - výběr: _length 100MM 10pcs_  |   6,61Kč   |    28,85Kč     |        1x         |            0,66Kč            |
-| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_             |   55,27Kč   |     ZDARMA     |        2x         |            2,20Kč             |
-| **Součet:**                                                            | **84,33Kč** |   **37,43Kč**   |        --         |          **25,32Kč**          |
+| Díl                                                                |    Cena     | DPH za dopravu | Požadované množství | Cena za požadované množství |
+| ------------------------------------------------------------------ | :---------: | :------------: | :-----------------: | :-------------------------: |
+| [2S Type-C To 8.4V Step-Up LiPo Charger][charger] - výběr: _2S 2A_ |   22,45Kč   |     8,59Kč     |         1x          |           22,45Kč           |
+| [JST XH 2.54-2 Pin Plug Male][wire] - výběr: _length 100MM 10pcs_  |   6,61Kč    |    28,85Kč     |         1x          |           0,66Kč            |
+| [LEGO Technic Pin 32002][lego_pieces] - výběr: _50pcs_             |   55,27Kč   |     ZDARMA     |         2x          |           2,20Kč            |
+| **Součet:**                                                        | **84,33Kč** |  **37,43Kč**   |         --          |         **25,32Kč**         |
 
 Za všechny produkty s dopravou do České republiky jsem zaplatil **121,74Kč**.
 
@@ -59,6 +59,7 @@ Při osazování modelů na auto je důležité se ujistit, že je vše řádně
 Ujistěte se, že jsou všechny kabely uklizené a nepřekážejí pohyblivým částem. Po usazení všech modelů do vozu vyzkoušejte IR senzory, abyste se ujistili, že správně fungují. Po nasazení všech čtyř snímačů by mělo být auto schopno detekovat překážky ve všech směrech.
 
 ---
+
 ## Nabíječ
 
 **Díly:**
@@ -88,11 +89,11 @@ Ujistěte se, že jsou všechny kabely uklizené a nepřekážejí pohyblivým �
   </tr>
   <tr>
     <td valign="top">Krok 5: vložte modul na auto</td>
-    <td valign="top"><img src="todo" alt="step5"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_5.jpg" alt="step5"  height="250"></td>
   </tr>
     <tr>
     <td valign="top">Krok 6: připojte kabel</td>
-    <td valign="top"><img src="todo" alt="step6"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_6.jpg" alt="step6"  height="250"></td>
   </tr>
 </table>
 
