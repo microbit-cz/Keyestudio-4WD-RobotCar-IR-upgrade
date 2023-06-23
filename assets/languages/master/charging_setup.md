@@ -90,11 +90,11 @@ Make sure all cables are tidy and out of the way of any moving parts. Once all m
   </tr>
   <tr>
     <td valign="top">Step 5: Place the model on the car</td>
-    <td valign="top"><img src="todo" alt="step5"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_5.jpg" alt="step5"  height="250"></td>
   </tr>
     <tr>
     <td valign="top">Step 6: Connect the cable</td>
-    <td valign="top"><img src="todo" alt="step6"  height="250"></td>
+    <td valign="top"><img src="/assets/img/tutorial/charger/step_6.jpg" alt="step6"  height="250"></td>
   </tr>
 </table>
 

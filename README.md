@@ -52,7 +52,3 @@ while (true) {
 The given code snippet assigns the digital readings from the IR sensors to respective variables: front_P, front_L, left, and right. The console.log statements display the values of each sensor to the Console.
 
 ---
-
-### TO-DO
-
-- [ ] setup photos for charger step 5,6
